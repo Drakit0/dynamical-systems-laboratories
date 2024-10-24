@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.25)  25 OCT 2024 00:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.25)  25 OCT 2024 00:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -877,42 +877,42 @@ Package pdftex.def Info: fonts_lab_2/circuit_lab_2.png  used on input line 382.
 <fonts_lab_2/block_diagram.png, id=123, 764.8575pt x 219.82124pt>
 File: fonts_lab_2/block_diagram.png Graphic file (type png)
 <use fonts_lab_2/block_diagram.png>
-Package pdftex.def Info: fonts_lab_2/block_diagram.png  used on input line 470.
+Package pdftex.def Info: fonts_lab_2/block_diagram.png  used on input line 437.
 (pdftex.def)             Requested size: 320.0935pt x 91.99557pt.
  [9 <./fonts_lab_2/block_diagram.png>]
 <fonts_lab_2/scope_v.png, id=136, 416.757pt x 293.29575pt>
 File: fonts_lab_2/scope_v.png Graphic file (type png)
 <use fonts_lab_2/scope_v.png>
-Package pdftex.def Info: fonts_lab_2/scope_v.png  used on input line 495.
+Package pdftex.def Info: fonts_lab_2/scope_v.png  used on input line 462.
 (pdftex.def)             Requested size: 170.71393pt x 120.14014pt.
 
-Underfull \hbox (badness 1132) in paragraph at lines 496--496
+Underfull \hbox (badness 1132) in paragraph at lines 463--463
 []\OT1/cmr/m/n/12 Figure 10: []Transient re-sponse
  []
 
 <fonts_lab_2/scope_i.png, id=137, 418.56375pt x 296.307pt>
 File: fonts_lab_2/scope_i.png Graphic file (type png)
 <use fonts_lab_2/scope_i.png>
-Package pdftex.def Info: fonts_lab_2/scope_i.png  used on input line 502.
+Package pdftex.def Info: fonts_lab_2/scope_i.png  used on input line 469.
 (pdftex.def)             Requested size: 170.71393pt x 120.84915pt.
 <fonts_lab_2/scope_analytical_v.png, id=138, 404.712pt x 308.352pt>
 File: fonts_lab_2/scope_analytical_v.png Graphic file (type png)
 <use fonts_lab_2/scope_analytical_v.png>
-Package pdftex.def Info: fonts_lab_2/scope_analytical_v.png  used on input line 521.
+Package pdftex.def Info: fonts_lab_2/scope_analytical_v.png  used on input line 488.
 (pdftex.def)             Requested size: 170.71393pt x 130.06685pt.
 <fonts_lab_2/scope_analytical_i.png, id=139, 403.5075pt x 310.761pt>
 File: fonts_lab_2/scope_analytical_i.png Graphic file (type png)
 <use fonts_lab_2/scope_analytical_i.png>
-Package pdftex.def Info: fonts_lab_2/scope_analytical_i.png  used on input line 528.
+Package pdftex.def Info: fonts_lab_2/scope_analytical_i.png  used on input line 495.
 (pdftex.def)             Requested size: 170.71393pt x 131.47658pt.
 [10 <./fonts_lab_2/scope_v.png> <./fonts_lab_2/scope_i.png> <./fonts_lab_2/scope_analytical_v.png> <./fonts_lab_2/scope_analytical_i.png>]
-Overfull \hbox (10.8442pt too wide) detected at line 577
+Overfull \hbox (10.8442pt too wide) detected at line 544
 \OML/cmm/m/it/12 For R  \OT1/cmr/m/n/12 =  100
   =[]\OMS/cmsy/m/n/12 )  \OML/cmm/m/it/12 Yl[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 s\OT1/cmr/m/n/12 ) = []  =[]\OMS/cmsy/m/n/12 )  \OML/cmm/m/it/12 ^^P \OT1/cmr/m/n/12 = [] \OMS/cmsy/m/n/12 ^^Y \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 01
  []
 
 
-Overfull \hbox (59.17735pt too wide) detected at line 579
+Overfull \hbox (59.17735pt too wide) detected at line 546
 \OML/cmm/m/it/12 For R  \OT1/cmr/m/n/12 =  500
   =[]\OMS/cmsy/m/n/12 )  \OML/cmm/m/it/12 Yl[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 s\OT1/cmr/m/n/12 ) = []  =[]\OMS/cmsy/m/n/12 )  \OML/cmm/m/it/12 ^^P \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 Yl[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 s\OT1/cmr/m/n/12 ) = [] \OMS/cmsy/m/n/12 ^^Y \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 05
  []
@@ -921,33 +921,33 @@ Overfull \hbox (59.17735pt too wide) detected at line 579
 <fonts_lab_2/scope_analytical_modified_v.png, id=158, 405.31425pt x 307.1475pt>
 File: fonts_lab_2/scope_analytical_modified_v.png Graphic file (type png)
 <use fonts_lab_2/scope_analytical_modified_v.png>
-Package pdftex.def Info: fonts_lab_2/scope_analytical_modified_v.png  used on input line 591.
+Package pdftex.def Info: fonts_lab_2/scope_analytical_modified_v.png  used on input line 558.
 (pdftex.def)             Requested size: 192.0548pt x 145.53569pt.
 <fonts_lab_2/scope_analytical_modified_i.png, id=159, 399.29175pt x 308.352pt>
 File: fonts_lab_2/scope_analytical_modified_i.png Graphic file (type png)
 <use fonts_lab_2/scope_analytical_modified_i.png>
-Package pdftex.def Info: fonts_lab_2/scope_analytical_modified_i.png  used on input line 598.
+Package pdftex.def Info: fonts_lab_2/scope_analytical_modified_i.png  used on input line 565.
 (pdftex.def)             Requested size: 192.0548pt x 148.3131pt.
 <fonts_lab_2/scope_v_step.png, id=160, 416.757pt x 295.70474pt>
 File: fonts_lab_2/scope_v_step.png Graphic file (type png)
 <use fonts_lab_2/scope_v_step.png>
-Package pdftex.def Info: fonts_lab_2/scope_v_step.png  used on input line 614.
+Package pdftex.def Info: fonts_lab_2/scope_v_step.png  used on input line 581.
 (pdftex.def)             Requested size: 192.0548pt x 136.26947pt.
 <fonts_lab_2/scope_i_step.png, id=161, 418.56375pt x 293.29575pt>
 File: fonts_lab_2/scope_i_step.png Graphic file (type png)
 <use fonts_lab_2/scope_i_step.png>
-Package pdftex.def Info: fonts_lab_2/scope_i_step.png  used on input line 621.
+Package pdftex.def Info: fonts_lab_2/scope_i_step.png  used on input line 588.
 (pdftex.def)             Requested size: 192.0548pt x 134.57307pt.
  [12 <./fonts_lab_2/scope_analytical_modified_v.png> <./fonts_lab_2/scope_analytical_modified_i.png> <./fonts_lab_2/scope_v_step.png> <./fonts_lab_2/scope_i_step.png>]
 <fonts_lab_2/scope_v_step0.png, id=176, 416.15475pt x 293.29575pt>
 File: fonts_lab_2/scope_v_step0.png Graphic file (type png)
 <use fonts_lab_2/scope_v_step0.png>
-Package pdftex.def Info: fonts_lab_2/scope_v_step0.png  used on input line 637.
+Package pdftex.def Info: fonts_lab_2/scope_v_step0.png  used on input line 604.
 (pdftex.def)             Requested size: 192.0548pt x 135.35625pt.
 <fonts_lab_2/scope_i_step0.png, id=177, 419.166pt x 295.70474pt>
 File: fonts_lab_2/scope_i_step0.png Graphic file (type png)
 <use fonts_lab_2/scope_i_step0.png>
-Package pdftex.def Info: fonts_lab_2/scope_i_step0.png  used on input line 644.
+Package pdftex.def Info: fonts_lab_2/scope_i_step0.png  used on input line 611.
 (pdftex.def)             Requested size: 192.0548pt x 135.48889pt.
  [13 <./fonts_lab_2/scope_v_step0.png> <./fonts_lab_2/scope_i_step0.png>] (lab_notebook_dynamic_systems.aux)
  ***********
